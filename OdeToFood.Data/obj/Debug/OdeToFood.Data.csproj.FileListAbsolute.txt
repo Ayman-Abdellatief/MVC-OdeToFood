@@ -1,0 +1,16 @@
+C:\Users\Ayman\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\Ayman\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\Ayman\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Ayman\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\Ayman\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\OdeToFood\MVC-OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
